@@ -1,4 +1,4 @@
-# Ruhela Subham Anil | Portfolio
+# Ruhela Subham Anil
 
 Welcome to my personal portfolio showcasing my skills, projects, and professional experience. This README provides an overview of who I am and what I do.
 
@@ -7,8 +7,6 @@ Welcome to my personal portfolio showcasing my skills, projects, and professiona
 ## About Me
 
 As a passionate **Software Developer** and **DevOps Engineer**, I am dedicated to leveraging technology to create impactful solutions. With a strong background in cloud computing, software development, and infrastructure optimization, I am always eager to learn and adapt to new challenges.
-
-![Profile Image](static/img/profile-img.jpg)
 
 ### Personal Information
 
