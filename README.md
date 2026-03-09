@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kubernetes and AI.<br>
+🔭 I’m interested in bridging AI with infrastructure engineering to build smarter and more automated operations.<br>
 👯 I’m looking to collaborate on AI in Infrastructure related projects.<br>
 🌱 I’m currently learning Monitoring and Kubernetes Administration.<br>
 💬 Ask me about Infrastructure, DevOps and SRE.<br>
